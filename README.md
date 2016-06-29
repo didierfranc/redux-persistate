@@ -1,7 +1,5 @@
 # redux-persistate
 
-# autofill-killer
-
 ### Installation
 
 ```bash
